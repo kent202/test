@@ -1,14 +1,11 @@
-body{
-	margin: 0px;
-	}
-form{
-	position: relative;
-	text-align: center;
+#conteiner {
+	display: table;
+	width: 100%;
 }
-input{
-	position:absolute;
-    top:50%;
-    left: 50%;
-    margin-left:-90px;
-    margin-top: -10px;
+#clon{
+	display: table-cell;
+	height:620px;
+	vertical-align: middle;
+	text-align: center;
+	width: 1600px;
 }
